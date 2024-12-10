@@ -47,7 +47,6 @@ public class Cactus {
     }
 }
 
-
 class Sensor {
     private final Random random;
 
