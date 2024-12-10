@@ -1,4 +1,4 @@
-package ru.inno.course.PA_2811;
+package ru.inno.course.PA_2811.Task4;
 
 import java.util.Random;
 import java.util.Scanner;
